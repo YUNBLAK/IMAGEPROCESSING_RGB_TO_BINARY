@@ -24,6 +24,7 @@ When we binarize the image before going through Noise Reduction, noise is also b
         return binary_img 
     
     # cv2.adaptiveThreshold(src, maxValue, adaptiveMethod, thresholdType, blockSize, C)
+    
     # src – grayscale image
     # maxValue – Threshold
     # Adaptive Method – calculation method to determine the holding value
