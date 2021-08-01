@@ -33,5 +33,5 @@ When we binarize the image before going through Noise Reduction, noise is also b
     
     #cv2.ADAPTIVE_THRESH_MEAN_C: The threshold is the average of the adjacent regions.
     #cv2.ADAPTIVE_THRESH_GAUSSIAN_C: The threshold is the sum of the weights of 
-                                     the neighboring values whose weights are in the Gaussian window.
+    #                                the neighboring values whose weights are in the Gaussian window.
     
